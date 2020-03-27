@@ -30,7 +30,7 @@
   },
   "require": {
     "php": ">=7.2",
-    "adgoal/jsonrpc-server-doc-sdk": "^0.3",
+    "yoanm/jsonrpc-server-doc-sdk": "^0.2",
     "yoanm/jsonrpc-http-server-openapi-doc-sdk": "^0.2",
     "adgoal/symfony-jsonrpc-http-server-doc": "^0.3",
     "symfony/http-kernel": "^4.0 || ^5.0",
